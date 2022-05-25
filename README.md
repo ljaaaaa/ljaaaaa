@@ -1,6 +1,6 @@
 ## Lilja Kiiski
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiljaKiiski&layout=compact&langs_count=3" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiljaKiiski&layout=compact&langs_count=3&theme=algolia" />
 
 Enjoys programming whenever not busy with schoolwork
 
