@@ -1,8 +1,8 @@
 ## Lilja Kiiski
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiljaKiiski&layout=compact&langs_count=6" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiljaKiiski&layout=compact&langs_count=4" />
 
-Enjoys programming whenever not busy with schoolwork
+Programming hobbyist
 
 ### Current projects:
 - [Chess](https://github.com/LiljaKiiski/chess) - End product will hopefully be a playable chess game with full chess rules implemented. 
