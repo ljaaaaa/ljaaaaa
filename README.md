@@ -4,4 +4,3 @@
 
 ### Current projects:
 - [pid-sim](https://github.com/LiljaKiiski/pid-sim) - A simulator for testing PID values being made with Java
-- [game-idea](https://github.com/LiljaKiiski/game-idea) - A game idea planning on making using my [swing-template](https://github.com/LiljaKiiski/swing-template)
