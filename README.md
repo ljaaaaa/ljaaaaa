@@ -4,4 +4,4 @@
 
 Programming hobbyist
 
-Currently working on various project
+Currently working on various projects
